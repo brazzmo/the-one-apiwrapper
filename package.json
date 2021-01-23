@@ -1,0 +1,22 @@
+{
+  "name": "the-one-apiwrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for the-one-api.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brazzmo/the-one-apiwrapper.git"
+  },
+  "author": "M1029",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/brazzmo/the-one-apiwrapper/issues"
+  },
+  "homepage": "https://github.com/brazzmo/the-one-apiwrapper#readme",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
