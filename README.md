@@ -47,3 +47,15 @@ TO.quotes.get('5cd96e05de30eff6ebcce990');
 //   character: '5cd99d4bde30eff6ebccfd0d'
 // }
 ```
+
+---
+
+Different Groups have different methods to choose from (related to that group). They're all pretty simple to use, so just play around and find out.
+Here are the different groupings:
+```js
+TO.books
+TO.chapters
+TO.characters
+TO.movies
+TO.quotes
+```
